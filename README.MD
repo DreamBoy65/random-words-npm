@@ -4,10 +4,13 @@
 
 </p>   
 
-Example: 
+# Example: 
 ```js
 const randomWord = require("random-characters")
 
 console.log(randomWord(5)) //value
 
 ```
+
+# Output
+```YHvTf```

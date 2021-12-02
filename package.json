@@ -1,6 +1,6 @@
 {
   "name": "random-characters",
-  "version": "4.0.0",
+  "version": "5.0.1",
   "description": " get  random  characters words",
   "main": "index.js",
   "scripts": {
