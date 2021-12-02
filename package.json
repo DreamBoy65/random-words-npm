@@ -1,6 +1,6 @@
 {
-  "name": "random-words-npm",
-  "version": "1.0.0",
+  "name": "random-characters",
+  "version": "4.0.0",
   "description": " get  random  characters words",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,17 @@
     "random",
     "words",
     "discord.js",
-    "randomWord"
+    "randomWord",
+    "random-characters"
   ],
   "author": "Dream-prince",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamBoy65/random-words-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DreamBoy65/random-words-npm/issues"
+  },
+  "homepage": "https://github.com/DreamBoy65/random-words-npm#readme"
 }
